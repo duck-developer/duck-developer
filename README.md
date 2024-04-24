@@ -77,41 +77,21 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://firebase.google.com/">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Firebase icon"/><br/>
-        <sub>
-          <b>
-            <pre>Firebase</pre>
-          </b>
-        </sub>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics">
+      <img src="https://skillicons.dev/icons?i=css&dark" width="65px" alt="CSS icon"/><br/>
+      <sub>
+        <b>
+          <pre>CSS</pre>
+        </b>
+      </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://react-hook-form.com/">
-        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/f9481945-1000-4624-8097-ac7da93ea0c5" width="65px" alt="React Hook Form icon"/><br/>
+      <a href="https://styled-components.com/">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
         <sub>
           <b>
-            <pre>React Hook<br/>Form</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://graphql.org/">
-        <img src="https://skillicons.dev/icons?i=graphql" width="65px" alt="GraphQL icon"/><br/>
-        <sub>
-          <b>
-            <pre>GraphQL</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.radix-ui.com/">
-        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/6016769a-9c0f-45b8-9246-26fc9d7846a2" width="65px" alt="Radix icon"/><br/>
-        <sub>
-          <b>
-            <pre>Radix UI</pre>
+            <pre>Styled<br/>Components</pre>
           </b>
         </sub>
       </a>
@@ -127,6 +107,7 @@
       </a>
     </td>
   </tr>
+  <!-- ////////////////////////////////////////////////// -->
   <tr>
     <td align="center">
       <a href="https://headlessui.com/">
@@ -134,16 +115,6 @@
         <sub>
           <b>
             <pre>HeadlessUI</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
-        <sub>
-          <b>
-            <pre>Styled<br/>Components</pre>
           </b>
         </sub>
       </a>
