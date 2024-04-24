@@ -23,6 +23,36 @@
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Dart icon"/><br/>
+        <sub>
+          <b>
+            <pre>TypeScript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dart.dev/">
+        <img src="https://skillicons.dev/icons?i=dart&theme=light" width="65px" alt="Dart icon"/><br/>
+        <sub>
+          <b>
+            <pre>Dart</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dart.dev/">
+        <img src="https://skillicons.dev/icons?i=dart" width="65px" alt="Dart icon"/><br/>
+        <sub>
+          <b>
+            <pre>Dart</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://nextjs.org/">
         <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
