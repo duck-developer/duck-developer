@@ -15,7 +15,7 @@
   <tr>
      <td align="center">
       <a href="https://www.javascript.com/">
-        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="65px" alt="Javascript icon"/><br/>
         <sub>
           <b>
             <pre>JavaScript</pre>
@@ -25,7 +25,7 @@
     </td>
      <td align="center">
       <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Dart icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="65px" alt="Dart icon"/><br/>
         <sub>
           <b>
             <pre>TypeScript</pre>
@@ -35,7 +35,7 @@
     </td>
     <td align="center">
       <a href="https://dart.dev/">
-        <img src="https://skillicons.dev/icons?i=dart&theme=light" width="65px" alt="Dart icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="65px" alt="Dart icon"/><br/>
         <sub>
           <b>
             <pre>Dart</pre>
@@ -44,11 +44,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://dart.dev/">
-        <img src="https://skillicons.dev/icons?i=dart" width="65px" alt="Dart icon"/><br/>
+      <a>
+        <img src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon"/><br/>
         <sub>
           <b>
-            <pre>Dart</pre>
+            <pre>C</pre>
           </b>
         </sub>
       </a>
