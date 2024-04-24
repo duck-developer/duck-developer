@@ -1,5 +1,9 @@
-![Image](https://i.imgur.com/9Bp92gj.gif)
+# gello
+![Texto Alternativo](https://i.imgur.com/9Bp92gj.gif)
 
+
+  <img align="center" width="100%" alt="Banner Animado do Github do duck-developer" src="https://i.imgur.com/9Bp92gj.gif" />
+<br/><br/>
 <!--
 **duck-developer/duck-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
