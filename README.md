@@ -54,25 +54,18 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://nextjs.org/">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
+      <a  href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=python&dark" width="65px" alt="python icon"/><br/>
         <sub>
           <b>
-            <pre>Next.js</pre>
+            <pre>Python</pre>
           </b>
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Typescript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
+  </tr>
+<!-- ////////////////////////////////////////////////// -->
+    <tr>
     <td align="center">
       <a href="https://tailwindcss.com/">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
@@ -83,19 +76,6 @@
       </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br/>
-        <sub>
-          <b>
-            <pre>Gitflow</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-<!-- ////////////////////////////////////////////////// -->
-    <tr>
     <td align="center">
       <a href="https://firebase.google.com/">
         <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Firebase icon"/><br/>
