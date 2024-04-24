@@ -1,9 +1,12 @@
-# gello
-![Texto Alternativo](https://i.imgur.com/9Bp92gj.gif)
-
 
   <img align="center" width="100%" alt="Banner Animado do Github do duck-developer" src="https://i.imgur.com/9Bp92gj.gif" />
 <br/><br/>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=duck-developer&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do duck-developer" height="40px" />
+</div>
+<hr/>
+
+<img align="center" src="./src/pt/image/pt-about.png" width="100%" alt="Título da seção Sobre Mim" />
 <!--
 **duck-developer/duck-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
