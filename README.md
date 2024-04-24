@@ -15,7 +15,7 @@
   <tr>
      <td align="center">
       <a href="https://www.javascript.com/">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34Vtl2XgKGeepZ7BdQ0Kfw8NnohJ1grZBh1SdwALxtr5qHN04" width="65px" alt="Javascript icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
         <sub>
           <b>
             <pre>JavaScript</pre>
