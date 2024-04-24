@@ -1,4 +1,4 @@
-### Hi there 👋
+![Image](https://i.imgur.com/9Bp92gj.gif)
 
 <!--
 **duck-developer/duck-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
