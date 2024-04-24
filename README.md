@@ -13,7 +13,18 @@
 
 <table align="right" height="255px">
   <tr>
-    <td align="center">
+     <td align="center">
+      <a href="https://www.javascript.com/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34Vtl2XgKGeepZ7BdQ0Kfw8NnohJ1grZBh1SdwALxtr5qHN04" width="65px" alt="Javascript icon"/><br/>
+        <sub>
+          <b>
+            <pre>JavaScript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    
+<!--     <td align="center">
       <a href="https://pt-br.reactjs.org/">
         <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
         <sub>
@@ -22,7 +33,7 @@
           </b>
         </sub>
       </a>
-    </td>
+    </td> -->
     <td align="center">
       <a href="https://nextjs.org/">
         <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
@@ -64,6 +75,7 @@
       </a>
     </td>
   </tr>
+<!-- ////////////////////////////////////////////////// -->
     <tr>
     <td align="center">
       <a href="https://firebase.google.com/">
