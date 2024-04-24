@@ -23,17 +23,6 @@
         </sub>
       </a>
     </td>
-    
-<!--     <td align="center">
-      <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
-        <sub>
-          <b>
-            <pre>React.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td> -->
     <td align="center">
       <a href="https://nextjs.org/">
         <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
