@@ -6,7 +6,7 @@
 </div>
 <hr/>
 
-<img align="center" src="./src/pt/pt-about me.png" width="100%" alt="Título da seção Sobre Mim"/>
+<img align="center" src="./src/pt/about me.png" width="100%" alt="Título da seção Sobre Mim"/>
 <!--
 **duck-developer/duck-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
