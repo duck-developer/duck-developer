@@ -8,3 +8,4 @@
 
 <img align="center" src="./src/pt/about me.png" width="100%" alt="Título da seção Sobre Mim"/>
 <img align="center" src="./src/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
+<img align="center" src="./src/pt/contact.png" width="100%" alt="Título da seção Meus Contatos" />
