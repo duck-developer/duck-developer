@@ -246,31 +246,73 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://ohmyz.sh/">
-        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
+      <a href="https://www.mysql.com/">
+        <img src="https://skillicons.dev/icons?i=mysql&dark" width="65px" alt="Mysql icon"/><br/>
         <sub>
           <b>
-            <pre>Terminal</pre>
+            <pre>MySQL</pre>
           </b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
+      <a href="https://www.postgresql.org/">
+        <img src="https://skillicons.dev/icons?i=postgres&dark" width="65px" alt="Postgres icon"/><br/>
         <sub>
           <b>
-            <pre>VSCode</pre>
+            <pre>PostGreSQL</pre>
           </b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://pop.system76.com/">
-        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
+      <a href="https://www.prisma.io/">
+        <img src="https://skillicons.dev/icons?i=prisma&dark" width="65px" alt="Prisma icon"/><br/>
         <sub>
           <b>
-            <pre>Linux &<br>Windows</pre>
+            <pre>Prisma</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://firebase.google.com/?hl=pt">
+        <img src="https://skillicons.dev/icons?i=firebase&dark" width="65px" alt="Firebase icon"/><br/>
+        <sub>
+          <b>
+            <pre>Firebase</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://tauri.app/">
+        <img src="https://skillicons.dev/icons?i=tauri&dark" width="65px" alt="Tauri icon"/><br/>
+        <sub>
+          <b>
+            <pre>Tauri</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.electronjs.org/pt/">
+        <img src="https://skillicons.dev/icons?i=electron&dark" width="65px" alt="Electron icon"/><br/>
+        <sub>
+          <b>
+            <pre>Electron</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://threejs.org/">
+        <img src="https://skillicons.dev/icons?i=threejs&dark" width="65px" alt="threejs icon"/><br/>
+        <sub>
+          <b>
+            <pre>Three.js</pre>
           </b>
         </sub>
       </a>
