@@ -11,7 +11,7 @@
 <img align="center" src="./src/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Icon Stack" src="./src/stack.png" />
 
-<table align="right" height="280px">
+<table align="right" height="255px">
   <tr>
      <td align="center">
       <a href="https://www.javascript.com/">
@@ -49,26 +49,6 @@
         <sub>
           <b>
             <pre>C</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a  href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=python&dark" width="65px" alt="python icon"/><br/>
-        <sub>
-          <b>
-            <pre>Python</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a  href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=python&dark" width="65px" alt="python icon"/><br/>
-        <sub>
-          <b>
-            <pre>Python</pre>
           </b>
         </sub>
       </a>
@@ -130,41 +110,41 @@
   <!-- ////////////////////////////////////////////////// -->
   <tr>
     <td align="center">
-      <a href="https://headlessui.com/">
-        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/63e73369-c2a1-407e-8c31-3a85372c11ec" height="65px" alt="HeadlessUI icon"/><br/>
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react&dark" height="65px" alt="React icon"/><br/>
         <sub>
           <b>
-            <pre>HeadlessUI</pre>
+            <pre>React.js</pre>
           </b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://sass-lang.com/">
-        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
+      <a href="https://vuejs.org/">
+        <img src="https://skillicons.dev/icons?i=vue&dark" width="65px" alt="Vue icon"/><br/>
         <sub>
           <b>
-            <pre>Sass</pre>
+            <pre>Vue.js</pre>
           </b>
        </a>
       </sub>
     </td>
     <td align="center">
-      <a href="https://zod.dev/">
-      <img src="https://github.com/Luk4x/Luk4x/assets/86276393/64010013-d6d1-48a5-a042-c122147cf83c" width="65px" alt="Zod icon"/><br/>
+      <a href="https://nextjs.org/">
+      <img src="https://skillicons.dev/icons?i=nextjs&dark" width="65px" alt="Next icon"/><br/>
       <sub>
         <b>
-          <pre>Zod &<br/>Yup</pre>
+          <pre>Next.js</pre>
         </b>
       </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.sanity.io/">
-        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/b67a8a2e-8a6f-4536-86a9-cbbca999c6bc" height="65px" alt="Sanity icon"/><br/>
+      <a href="https://vitejs.dev/">
+        <img src="https://skillicons.dev/icons?i=vite&dark" height="65px" alt="Vite icon"/><br/>
         <sub>
           <b>
-            <pre>Sanity.io</pre>
+            <pre>Vite.js</pre>
           </b>
         </sub>
       </a>
