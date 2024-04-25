@@ -11,7 +11,7 @@
 <img align="center" src="./src/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Icon Stack" src="./src/stack.png" />
 
-<table align="right" height="355px">
+<table align="right" height="280px">
   <tr>
      <td align="center">
       <a href="https://www.javascript.com/">
