@@ -162,54 +162,34 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://stripe.com/en-br/">
-        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/368e62fc-6dfd-4f28-a325-ddc8d3dad403" width="65px" alt="Stripe icon"/><br/>
-        <sub>
-          <b>
-            <pre>Stripe</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://redux.js.org/">
-        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br/>
-        <sub>
-          <b>
-            <pre>Redux<br/>Toolkit</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
-        <sub>
-          <b>
-            <pre>Express.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://reactnative.dev/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=react&dark" width="65px" alt="React Native icon"/><br/>
         <sub>
           <b>
-            <pre>React<br>Native</pre>
+            <pre>React Native</pre>
           </b>
         </sub>
-     </a>
+      </a>
     </td>
     <td align="center">
-      <a href="https://nativebase.io/">
-        <img src="https://nativebase.io/img/nativebase-logo.svg" width="65px" alt="NativeBase icon"/><br/>
+      <a href="https://flutter.dev/">
+        <img src="https://skillicons.dev/icons?i=flutter&dark" width="65px" alt="Flutter icon"/><br/>
         <sub>
           <b>
-            <pre>NativeBase</pre>
+            <pre>Flutter</pre>
           </b>
         </sub>
-     </a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kotlinlang.org/">
+        <img src="https://skillicons.dev/icons?i=kotlin&dark" width="65px" alt="Kotlin icon"/><br/>
+        <sub>
+          <b>
+            <pre>Kotlin</pre>
+          </b>
+        </sub>
+      </a>
     </td>
   </tr>
   <tr>
