@@ -2,7 +2,7 @@
   <img align="center" width="100%" alt="Banner Animado do Github do duck-developer" src="https://i.imgur.com/9Bp92gj.gif" />
 <br/><br/>
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=duck-developer&labelColor=%blue&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do duck-developer" height="40px" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=duck-developer&labelColor=%BF0103&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do duck-developer" height="40px" />
 </div>
 <hr/>
 
