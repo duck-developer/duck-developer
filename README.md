@@ -214,7 +214,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+      <a href="https://fastify.dev/">
         <img src="./src/fastify-icon.svg" width="65px" alt="fastfy icon"/><br/>
         <sub>
           <b>
