@@ -11,7 +11,7 @@
 <img align="center" src="./src/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Icon Stack" src="./src/stack.png" />
 
-<table align="right" height="255px">
+<table align="right" height="355px">
   <tr>
      <td align="center">
       <a href="https://www.javascript.com/">
@@ -49,6 +49,26 @@
         <sub>
           <b>
             <pre>C</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a  href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=python&dark" width="65px" alt="python icon"/><br/>
+        <sub>
+          <b>
+            <pre>Python</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a  href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=python&dark" width="65px" alt="python icon"/><br/>
+        <sub>
+          <b>
+            <pre>Python</pre>
           </b>
         </sub>
       </a>
