@@ -215,7 +215,7 @@
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="./src/fastfy-icon.svg" width="65px" alt="fastfy icon"/><br/>
+        <img src="./src/fastify-icon.svg" width="65px" alt="fastfy icon"/><br/>
         <sub>
           <b>
             <pre>Fastfy</pre>
