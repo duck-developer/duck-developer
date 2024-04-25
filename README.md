@@ -149,6 +149,16 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a>
+        <img src="https://skillicons.dev/icons?i=html&dark" height="65px" alt="Html icon"/><br/>
+        <sub>
+          <b>
+            <pre>Html</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
