@@ -194,51 +194,51 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://axios-http.com/docs/intro">
-      <img src="https://github.com/Luk4x/Luk4x/assets/86276393/71a02aa6-3809-4a9b-8190-80732381c873" width="65px" alt="Axios icon"/><br/>
+      <a href="https://nodejs.org/en">
+      <img src="https://skillicons.dev/icons?i=nodejs&dark" width="65px" alt="Nodejs icon"/><br/>
       <sub>
         <b>
-          <pre>Axios &<br/>FetchAPI</pre>
+          <pre>Node.js</pre>
         </b>
       </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br/>
+      <a href="https://expressjs.com/pt-br/">
+        <img src="https://skillicons.dev/icons?i=express&dark" width="65px" alt="express icon"/><br/>
         <sub>
           <b>
-            <pre>Node.js</pre>
+            <pre>Express.js</pre>
           </b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="fastfy icon"/><br/>
         <sub>
           <b>
-            <pre>Javascript</pre>
+            <pre>Fastfy</pre>
           </b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
+      <a href="https://nestjs.com/">
+        <img src="https://skillicons.dev/icons?i=nestjs&dark" width="65px" alt="Nest icon"/><br/>
         <sub>
           <b>
-            <pre>CSS3</pre>
+            <pre>Nest.js</pre>
           </b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+      <a href="https://graphql.org/">
+        <img src="https://skillicons.dev/icons?i=graphql&dark" width="65px" alt="GraphQL icon"/><br/>
         <sub>
           <b>
-            <pre>HTML5</pre>
+            <pre>GraphQL</pre>
           </b>
         </sub>
       </a>
