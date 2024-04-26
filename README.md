@@ -327,14 +327,17 @@
 <p align="center">
   <a href="mailto:ikaroassis08gmail.com" target="_blank">
     <img src="./src/gmail.png" alt="Etiqueta do Gmail" height="30px" />
+    Gmail
     &nbsp;
   </a>
   <a href="https://wa.me/5575982999575" target="_blank">
     <img src="./src/whatsapp.png" alt="Etiqueta do Whatsapp" height="30px" />
+    Whatsapp
     &nbsp;
   </a>
   <a href="https://www.instagram.com/duck.web/" target="_blank">
     <img src="./src/instagram.png" alt="Etiqueta do Instagram" height="30px" />
+    Instagram
     &nbsp;
   </a>
 
