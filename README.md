@@ -329,31 +329,15 @@
     <img src="./src/gmail.png" alt="Etiqueta do Gmail" height="30px" />
     &nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
-    <img src="./components/icons/linkedin.png" alt="Etiqueta do Linkedin" height="30px" />
+  <a href="https://wa.me/5575982999575" target="_blank">
+    <img src="./src/whatsapp.png" alt="Etiqueta do Whatsapp" height="30px" />
     &nbsp;
   </a>
-  <a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf" target="_blank">
-    <img src="./components/icons/vitrine-dev.png" alt="Etiqueta da Vitrine.Dev" height="30px" />
+  <a href="https://www.instagram.com/duck.web/" target="_blank">
+    <img src=".src/instagram.png" alt="Etiqueta do Instagram" height="30px" />
     &nbsp;
   </a>
-  <a href="https://t.me/lu_k4x" target="_blank">
-    <img src="./components/icons/telegram.png" alt="Etiqueta do Telegram" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
-    <img src="./components/icons/whatsapp.png" alt="Etiqueta do Whatsapp" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://www.instagram.com/lu_k4x/" target="_blank">
-    <img src="./components/icons/instagram.png" alt="Etiqueta do Instagram" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://stackoverflow.com/users/18881418/lucas-maciel" target="_blank">
-    <img src="./components/icons/stack-overflow.png" alt="Etiqueta do Stack Overflow" height="30px" />
-    &nbsp;
-  </a>
-  <img src="./components/icons/discord.png" alt="Etiqueta do Discord" height="30px" />
+
 </p>
 <br/><br/>
 <hr/>
