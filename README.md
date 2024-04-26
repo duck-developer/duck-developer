@@ -3,6 +3,7 @@
 <br/><br/>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=duck-developer&labelColor=%BF0103&countColor=%BF0103&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do duck-developer" height="40px" />
+  <img src="https://profile-counter.glitch.me/duck-developer/count.svg"/>
 </div>
 <hr/>
 
