@@ -325,8 +325,8 @@
 <img align="right" width="185px" src="./src/contact.gif" alt="TV"/>
 <br/><br/>
 <p align="center">
-  <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
-    <img src="./components/icons/gmail.png" alt="Etiqueta do Gmail" height="30px" />
+  <a href="mailto:ikaroassis08gmail.com" target="_blank">
+    <img src="./src/gmail.png" alt="Etiqueta do Gmail" height="30px" />
     &nbsp;
   </a>
   <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
