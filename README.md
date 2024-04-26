@@ -334,7 +334,7 @@
     &nbsp;
   </a>
   <a href="https://www.instagram.com/duck.web/" target="_blank">
-    <img src=".src/instagram.png" alt="Etiqueta do Instagram" height="30px" />
+    <img src="./src/instagram.png" alt="Etiqueta do Instagram" height="30px" />
     &nbsp;
   </a>
 
