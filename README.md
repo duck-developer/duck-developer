@@ -343,7 +343,6 @@
 
 </p>
 <br/><br/>
-<br/><br/><br/><br/>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 <hr/>
 <img align="center" src="./src/pt/project.png" width="100%" alt="Título da seção Meus Projetos" />
