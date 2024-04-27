@@ -2,7 +2,7 @@
   <img align="center" width="100%" alt="Banner Animado do Github do duck-developer" src="https://i.imgur.com/9Bp92gj.gif" />
 <br/><br/>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/duck-developer/count.svg"/>
+<img src="https://profile-counter.glitch.me/{duck-developer}/count.svg"/>
 </div>
 <hr/>
 
