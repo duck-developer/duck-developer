@@ -16,7 +16,7 @@
   <li>🚀 Evoluindo continuamente em <strong>C#</strong> e em seu ecossistema.</li>
   <li>🇺🇸 Tenho inglês intermediário.</li>
 </ul>
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 <hr/>
 <img align="center" src="./src/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
