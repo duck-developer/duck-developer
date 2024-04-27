@@ -11,7 +11,7 @@
 <br/><br/><br/>
 <ul>
   <li>🤩️ Gosto de ouvir musica enquanto estou programando</li>
-  <li>💻 <b>Estudando</b> na <a href="https://unifan.net.br/" target="_blank">Unifan</a> Analise e Desenvolvimento de Sistemas </li>
+  <li>💻 <b>Estudando</b> na <a href="https://unifan.net.br/" target="blank">Unifan</a> Analise e Desenvolvimento de Sistemas </li>
   <li>🔭 Com mais de 2 anos de <b>experiência</b> em programação Front, Back, e Mobile</li>
   <li>🚀 Evoluindo continuamente em <strong>C#</strong> e em seu ecossistema.</li>
   <li>🇺🇸 Tenho inglês intermediário.</li>
