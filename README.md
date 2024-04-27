@@ -7,7 +7,7 @@
 <hr/>
 
 <img align="center" src="./src/pt/about me.png" width="100%" alt="Título da seção Sobre Mim"/>
-
+<br/><br/><br/><br/>
 <img align="right" src="./src/artwork.png" border="2" width="372px" height="278px" alt="duck-perfil" />
 <ul>
   <li>🤩️ Gosto de ouvir musica enquanto estou programando</li>
