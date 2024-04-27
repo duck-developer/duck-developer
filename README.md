@@ -8,7 +8,7 @@
 
 <img align="center" src="./src/pt/about me.png" width="100%" alt="Título da seção Sobre Mim"/>
 
-<img align="right" src="./images/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
+<img align="right" src="./src/artwork.png" border="2" width="372px" height="278px" alt="duck-perfil" />
 <ul>
   <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
   <li>💻 <b>Trabalho</b> na <a href="https://www.delta-code.online/" target="_blank">Delta Code</a> e já estudei na <a href="https://www.origamid.com/" target="_blank">Origamid</a>, <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
