@@ -357,3 +357,4 @@
 <br/><br/><br/>
 <hr/>
 <img align="center" src="./src/pt/project.png" width="100%" alt="Título da seção Meus Projetos" />
+![snake gif](https://github.com/duck-developer/duck-developer/blob/output/github-contribution-grid-snake.gif)
