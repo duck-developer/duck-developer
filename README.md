@@ -16,6 +16,7 @@
   <li>🇺🇸 Tenho inglês intermediário.</li>
 </ul>
 <br/>
+<img align="right" src="./src/artwork.png" border="2" width="372px" height="278px" alt="duck-perfil" />
 <hr/>
 <img align="center" src="./src/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Icon Stack" src="./src/stack.png" />
