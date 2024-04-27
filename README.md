@@ -7,7 +7,7 @@
 <hr/>
 
 <img align="center" src="./src/pt/about me.png" width="100%" alt="Título da seção Sobre Mim"/>
-
+<img align="right" src="./src/artwork.png" border="2" width="372px" height="278px" alt="duck-perfil" />
 <ul>
   <li>🤩️ Gosto de ouvir musica enquanto estou programando</li>
   <li>💻 <b>Estudando</b> na <a href="https://unifan.net.br/" target="_blank">Unifan</a> Analise e Desenvolvimento de Sistemas </li>
@@ -15,8 +15,8 @@
   <li>🚀 Evoluindo continuamente em <strong>C#</strong> e em seu ecossistema.</li>
   <li>🇺🇸 Tenho inglês intermediário.</li>
 </ul>
-<br/>
-<img align="right" src="./src/artwork.png" border="2" width="372px" height="278px" alt="duck-perfil" />
+<br/><br/><br/><br/><br/>
+
 <hr/>
 <img align="center" src="./src/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Icon Stack" src="./src/stack.png" />
