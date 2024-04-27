@@ -333,7 +333,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 <img align="center" src="./src/pt/contact.png" width="100%" alt="Título da seção Meus Contatos" />
-<img align="right" width="285px" src="./src/contact.gif" alt="TV"/>
+<img align="right" width="325px" src="./src/contact.gif" alt="TV"/>
 <br/><br/>
 <p align="center">
   <a  href="mailto:ikaroassis08gmail.com" target="_blank">
@@ -353,5 +353,3 @@
   </a>
 
 </p>
-<br/><br/>
-<br/><br/><br/>
