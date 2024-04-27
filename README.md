@@ -8,6 +8,7 @@
 
 <img align="center" src="./src/pt/about me.png" width="100%" alt="Título da seção Sobre Mim"/>
 <img align="right" src="./src/artwork.png" border="2" width="372px" height="278px" alt="duck-perfil" />
+<br/><br/><br/>
 <ul>
   <li>🤩️ Gosto de ouvir musica enquanto estou programando</li>
   <li>💻 <b>Estudando</b> na <a href="https://unifan.net.br/" target="_blank">Unifan</a> Analise e Desenvolvimento de Sistemas </li>
