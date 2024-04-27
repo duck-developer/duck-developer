@@ -25,7 +25,7 @@
 <table align="right" height="255px">
   <tr>
      <td align="center">
-      <a href="https://www.javascript.com/">
+      <a  target="_blank" href="https://www.javascript.com/">
         <img src="https://skillicons.dev/icons?i=js&theme=dark" width="65px" alt="Javascript icon"/><br/>
         <sub>
           <b>
@@ -35,7 +35,7 @@
       </a>
     </td>
      <td align="center">
-      <a href="https://www.typescriptlang.org/">
+      <a  target="_blank" href="https://www.typescriptlang.org/">
         <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="65px" alt="Dart icon"/><br/>
         <sub>
           <b>
@@ -45,7 +45,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://dart.dev/">
+      <a  target="_blank" href="https://dart.dev/">
         <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="65px" alt="Dart icon"/><br/>
         <sub>
           <b>
@@ -56,7 +56,7 @@
     </td>
     <td align="center">
       <a>
-        <img src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon"/><br/>
+        <img  target="_blank" src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon"/><br/>
         <sub>
           <b>
             <pre>C</pre>
@@ -65,7 +65,7 @@
       </a>
     </td>
     <td align="center">
-      <a  href="https://www.python.org/">
+      <a  target="_blank" href="https://www.python.org/">
         <img src="https://skillicons.dev/icons?i=python&dark" width="65px" alt="python icon"/><br/>
         <sub>
           <b>
@@ -78,7 +78,7 @@
 <!-- ////////////////////////////////////////////////// -->
     <tr>
     <td align="center">
-      <a href="https://tailwindcss.com/">
+      <a  target="_blank" href="https://tailwindcss.com/">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
       <sub>
         <b>
@@ -88,7 +88,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics">
+      <a  target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics">
       <img src="https://skillicons.dev/icons?i=css&dark" width="65px" alt="CSS icon"/><br/>
       <sub>
         <b>
@@ -98,7 +98,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://styled-components.com/">
+      <a  target="_blank" href="https://styled-components.com/">
         <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
         <sub>
           <b>
@@ -108,7 +108,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://getbootstrap.com/">
+      <a  target="_blank" href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
       <sub>
         <b>
@@ -121,7 +121,7 @@
   <!-- ////////////////////////////////////////////////// -->
   <tr>
     <td align="center">
-      <a href="https://react.dev/">
+      <a  target="_blank" href="https://react.dev/">
         <img src="https://skillicons.dev/icons?i=react&dark" height="65px" alt="React icon"/><br/>
         <sub>
           <b>
@@ -131,7 +131,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://vuejs.org/">
+      <a  target="_blank" href="https://vuejs.org/">
         <img src="https://skillicons.dev/icons?i=vue&dark" width="65px" alt="Vue icon"/><br/>
         <sub>
           <b>
@@ -141,7 +141,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://nextjs.org/">
+      <a  target="_blank" href="https://nextjs.org/">
       <img src="https://skillicons.dev/icons?i=nextjs&dark" width="65px" alt="Next icon"/><br/>
       <sub>
         <b>
@@ -151,7 +151,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://vitejs.dev/">
+      <a  target="_blank" href="https://vitejs.dev/">
         <img src="https://skillicons.dev/icons?i=vite&dark" height="65px" alt="Vite icon"/><br/>
         <sub>
           <b>
@@ -162,7 +162,7 @@
     </td>
     <td align="center">
       <a>
-        <img src="https://skillicons.dev/icons?i=html&dark" height="65px" alt="Html icon"/><br/>
+        <img  target="_blank" src="https://skillicons.dev/icons?i=html&dark" height="65px" alt="Html icon"/><br/>
         <sub>
           <b>
             <pre>Html</pre>
@@ -173,7 +173,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://reactnative.dev/">
+      <a  target="_blank" href="https://reactnative.dev/">
         <img src="https://skillicons.dev/icons?i=react&dark" width="65px" alt="React Native icon"/><br/>
         <sub>
           <b>
@@ -183,7 +183,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://flutter.dev/">
+      <a  target="_blank" href="https://flutter.dev/">
         <img src="https://skillicons.dev/icons?i=flutter&dark" width="65px" alt="Flutter icon"/><br/>
         <sub>
           <b>
@@ -193,7 +193,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://kotlinlang.org/">
+      <a  target="_blank" href="https://kotlinlang.org/">
         <img src="https://skillicons.dev/icons?i=kotlin&dark" width="65px" alt="Kotlin icon"/><br/>
         <sub>
           <b>
@@ -205,7 +205,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://nodejs.org/en">
+      <a  target="_blank" href="https://nodejs.org/en">
       <img src="https://skillicons.dev/icons?i=nodejs&dark" width="65px" alt="Nodejs icon"/><br/>
       <sub>
         <b>
@@ -215,7 +215,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://expressjs.com/pt-br/">
+      <a  target="_blank" href="https://expressjs.com/pt-br/">
         <img src="https://skillicons.dev/icons?i=express&dark" width="65px" alt="express icon"/><br/>
         <sub>
           <b>
@@ -225,7 +225,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://fastify.dev/">
+      <a  target="_blank" href="https://fastify.dev/">
         <img src="./src/fastify-icon.svg" width="65px" alt="fastfy icon"/><br/>
         <sub>
           <b>
@@ -235,7 +235,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://nestjs.com/">
+      <a  target="_blank" href="https://nestjs.com/">
         <img src="https://skillicons.dev/icons?i=nestjs&dark" width="65px" alt="Nest icon"/><br/>
         <sub>
           <b>
@@ -245,7 +245,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://graphql.org/">
+      <a  target="_blank" href="https://graphql.org/">
         <img src="https://skillicons.dev/icons?i=graphql&dark" width="65px" alt="GraphQL icon"/><br/>
         <sub>
           <b>
@@ -257,7 +257,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.mysql.com/">
+      <a  target="_blank" href="https://www.mysql.com/">
         <img src="https://skillicons.dev/icons?i=mysql&dark" width="65px" alt="Mysql icon"/><br/>
         <sub>
           <b>
@@ -267,7 +267,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.postgresql.org/">
+      <a  target="_blank" href="https://www.postgresql.org/">
         <img src="https://skillicons.dev/icons?i=postgres&dark" width="65px" alt="Postgres icon"/><br/>
         <sub>
           <b>
@@ -277,7 +277,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.prisma.io/">
+      <a  target="_blank" href="https://www.prisma.io/">
         <img src="https://skillicons.dev/icons?i=prisma&dark" width="65px" alt="Prisma icon"/><br/>
         <sub>
           <b>
@@ -287,7 +287,7 @@
       </a>
     </td>
    <td align="center">
-      <a href="https://firebase.google.com/?hl=pt">
+      <a  target="_blank" href="https://firebase.google.com/?hl=pt">
         <img src="https://skillicons.dev/icons?i=firebase&dark" width="65px" alt="Firebase icon"/><br/>
         <sub>
           <b>
@@ -299,7 +299,7 @@
   </tr>
   <tr>
    <td align="center">
-      <a href="https://tauri.app/">
+      <a  target="_blank" href="https://tauri.app/">
         <img src="https://skillicons.dev/icons?i=tauri&dark" width="65px" alt="Tauri icon"/><br/>
         <sub>
           <b>
@@ -309,7 +309,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.electronjs.org/pt/">
+      <a  target="_blank" href="https://www.electronjs.org/pt/">
         <img src="https://skillicons.dev/icons?i=electron&dark" width="65px" alt="Electron icon"/><br/>
         <sub>
           <b>
@@ -319,7 +319,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://threejs.org/">
+      <a  target="_blank" href="https://threejs.org/">
         <img src="https://skillicons.dev/icons?i=threejs&dark" width="65px" alt="threejs icon"/><br/>
         <sub>
           <b>
@@ -336,7 +336,7 @@
 <img align="right" width="285px" src="./src/contact.gif" alt="TV"/>
 <br/><br/>
 <p align="center">
-  <a href="mailto:ikaroassis08gmail.com" target="_blank">
+  <a  href="mailto:ikaroassis08gmail.com" target="_blank">
     <img src="./src/gmail.png" alt="Etiqueta do Gmail" height="30px" />
     Gmail
     &nbsp;
