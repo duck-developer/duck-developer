@@ -46,8 +46,7 @@
 
 ### 🖥️ Back-end
 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql&theme=dark" />
-  <img src="./src/fastify-icon.svg" height="40px" alt="Fastify" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql&theme=dark" /><img src="./src/fastify-icon.svg" height="40px" alt="Fastify" />
 
 ### 🗃️ Bancos de Dados
 
