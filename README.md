@@ -24,39 +24,76 @@
 
 ## 🧠 Minhas Stacks
 
-### 💬 Linguagens
+<table align="center" width="100%">
+  <tr>
+    <th align="center" colspan="2">💬 Linguagens</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=js,ts,dart,c,cpp,cs,java,py&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,c,cpp,cs,java,py&theme=dark" />
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="50%">🎨 Front-end</th>
+    <th align="center" width="50%">🖥️ Back-end</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,styledcomponents&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql&theme=dark" /><br>
+      <img src="./src/fastify-icon.svg" height="40px" alt="Fastify" />
+    </td>
+  </tr>
+</table>
 
-### 🎨 Front-end
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="50%">⚛️ Frameworks</th>
+    <th align="center" width="50%">📱 Mobile</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,styledcomponents&theme=dark" />
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="50%">🖥️ Desktop</th>
+    <th align="center" width="50%">🗃️ Bancos de Dados</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=electron,tauri&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-### ⚛️ Frameworks
-
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite&theme=dark" />
-
-### 📱 Mobile
-
-  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,theme=dark" />
-
-### 🖥️ Desktop
-
-<img src="https://skillicons.dev/icons?i=electron,tauri&theme=dark" />
-
-### 🖥️ Back-end
-
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql&theme=dark" /><img src="./src/fastify-icon.svg" height="40px" alt="Fastify" />
-
-### 🗃️ Bancos de Dados
-
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&theme=dark" />
-
-### 🛠️ Ferramentas & Outros
-
-  <img src="https://skillicons.dev/icons?i=blender,threejs,kali,git,github,figma,docker&theme=dark" />
+<table align="center" width="100%">
+  <tr>
+    <th align="center" colspan="2">🛠️ Ferramentas & Outros</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=blender,threejs,kali,git,github,figma,docker&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## 📌 Projetos Principais
 
