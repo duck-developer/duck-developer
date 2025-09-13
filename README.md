@@ -58,6 +58,16 @@
 
 ---
 
+## 📌 Projetos Principais
+
+| 🚀 Projeto | 🔗 Link | 📝 Descrição |
+|------------|--------|-------------|
+| 🎶 **Gerenciador de Músicas** | [Repositório](https://github.com/duck-developer/music-manager) | Sistema completo para cadastro, playlists e reprodução de músicas |
+| 📱 **App de Saúde** | [Repositório](https://github.com/duck-developer/health-app) | Apoio a profissionais de saúde no diagnóstico de doenças raras |
+| 🌐 **Plataforma de Eventos (PEI)** | [Repositório](https://github.com/duck-developer/events-platform) | Gerenciamento de eventos acadêmicos com sistema de ingressos |
+
+---
+
 ## 📈 Estatísticas
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duck-developer&show_icons=true&theme=tokyonight&count_private=true"/>
