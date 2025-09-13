@@ -3,10 +3,9 @@
 </p>
 
 ---
+<img align="right" src="./src/artwork.png" width="300px" alt="duck-perfil" />
 
 ## 🦆 Sobre mim
-
-<img align="right" src="./src/artwork.png" width="300px" alt="duck-perfil" />
 
 - 🤩 Gosto de ouvir música enquanto programo.
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas** na [Unifan](https://unifan.net.br/)
