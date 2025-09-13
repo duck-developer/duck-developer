@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=js,ts,dart,c,cpp,cs,java,py&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=js,ts,dart,c,cpp,cs,java,py&theme=dark" height="50px"/>
     </td>
   </tr>
 </table>
@@ -42,10 +42,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,styledcomponents&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,styledcomponents&theme=dark" height="50px"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql&theme=dark" height="50px"/><br>
       <img src="./src/fastify-icon.svg" height="40px" alt="Fastify" />
     </td>
   </tr>
@@ -58,10 +58,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite&theme=dark" height="50px"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&theme=dark" height="50px"/>
     </td>
   </tr>
 </table>
@@ -73,10 +73,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=electron,tauri&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=electron,tauri&theme=dark" height="50px"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&theme=dark" height="50px"/>
     </td>
   </tr>
 </table>
@@ -87,13 +87,12 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=blender,threejs,kali,git,github,figma,docker&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=blender,threejs,kali,git,github,figma,docker&theme=dark" height="50px"/>
     </td>
   </tr>
 </table>
 
 ---
-
 
 ## 📌 Projetos Principais
 
@@ -107,19 +106,23 @@
 
 ## 📈 Estatísticas
 
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duck-developer&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duck-developer&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌐 Contato
 
-<a href="https://www.linkedin.com/in/ikaro-assis-sousa-b27b26344" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ikaro-assis-sousa-b27b26344" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:ikaroassis08@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_icaro_dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
