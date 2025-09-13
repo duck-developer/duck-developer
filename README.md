@@ -1,18 +1,12 @@
-<!-- Banner -->
 <p align="center">
   <img width="100%" src="https://i.imgur.com/9Bp92gj.gif" alt="Banner Animado do Github do duck-developer"/>
-</p>
-
-<!-- Contador de visitas -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/duck-developer/count.svg" />
 </p>
 
 ---
 
 ## 🦆 Sobre mim
 
-<img align="right" src="./src/artwork.png" width="370px" alt="duck-perfil" />
+<img align="right" src="./src/artwork.png" width="300px" alt="duck-perfil" />
 
 - 🤩 Gosto de ouvir música enquanto programo.
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas** na [Unifan](https://unifan.net.br/)
@@ -38,56 +32,56 @@
 <table align="center" width="100%">
   <tr>
     <th align="center" width="50%">🎨 Front-end</th>
-    <th align="center" width="50%">🖥️ Back-end</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,styledcomponents&theme=dark" height="50px"/>
     </td>
-    <td align="center">
+
+  </tr>
+</table>
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="50%">🖥️ Back-end</th>
+    <th align="center" width="50%">🗃️ Bancos de dados</th>
+  </tr>
+  <tr>
+   <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql&theme=dark" height="50px"/><br>
-      <img src="./src/fastify-icon.svg" height="40px" alt="Fastify" />
+      <img src="./src/fastify-icon.svg"  height="30px" alt="Fastify" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,supabase&theme=dark" height="50px"/>
+    </td>
     </td>
   </tr>
 </table>
 
 <table align="center" width="100%">
   <tr>
-    <th align="center" width="50%">⚛️ Frameworks</th>
-    <th align="center" width="50%">📱 Mobile</th>
+    <th align="center" width="33%">⚛️ Frameworks</th>
+    <th align="center" width="33%">📱 Mobile</th>
+    <th align="center" width="33%">🖥️ Desktop</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite&theme=dark" height="50px"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,angular&theme=dark" height="50px"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&theme=dark" height="50px"/>
     </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <th align="center" width="50%">🖥️ Desktop</th>
-    <th align="center" width="50%">🗃️ Bancos de Dados</th>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=electron,tauri&theme=dark" height="50px"/>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&theme=dark" height="50px"/>
-    </td>
   </tr>
 </table>
 
 <table align="center" width="100%">
   <tr>
-    <th align="center" colspan="2">🛠️ Ferramentas & Outros</th>
+    <th align="center" colspan="3">🛠️ Ferramentas & Outros</th>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=blender,threejs,kali,git,github,figma,docker&theme=dark" height="50px"/>
+    <td align="center" colspan="3">
+      <img src="https://skillicons.dev/icons?i=blender,threejs,kali,git,github,figma,netlify,docker&theme=dark" height="50px"/>
     </td>
   </tr>
 </table>
@@ -96,11 +90,11 @@
 
 ## 📌 Projetos Principais
 
-| 🚀 Projeto | 🔗 Link | 📝 Descrição |
-|------------|--------|-------------|
-| 🎶 **Gerenciador de Músicas** | [Repositório](https://github.com/duck-developer/music-manager) | Sistema completo para cadastro, playlists e reprodução de músicas |
-| 📱 **App de Saúde** | [Repositório](https://github.com/duck-developer/health-app) | Apoio a profissionais de saúde no diagnóstico de doenças raras |
-| 🌐 **Plataforma de Eventos (PEI)** | [Repositório](https://github.com/duck-developer/events-platform) | Gerenciamento de eventos acadêmicos com sistema de ingressos |
+| 🚀 Projeto                         | 🔗 Link                                                          | 📝 Descrição                                                      |
+| ---------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 🎶 **Gerenciador de Músicas**      | [Repositório](https://github.com/duck-developer/music-manager)   | Sistema completo para cadastro, playlists e reprodução de músicas |
+| 📱 **App de Saúde**                | [Repositório](https://github.com/duck-developer/health-app)      | Apoio a profissionais de saúde no diagnóstico de doenças raras    |
+| 🌐 **Plataforma de Eventos (PEI)** | [Repositório](https://github.com/duck-developer/events-platform) | Gerenciamento de eventos acadêmicos com sistema de ingressos      |
 
 ---
 
@@ -125,4 +119,3 @@
   <a href="https://www.instagram.com/_icaro_dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
